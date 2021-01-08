@@ -10,4 +10,5 @@ Animations :
 Personnage avec animation
 statue tournante et rayonnante
 
-Lien du projet : https://drive.google.com/file/d/1gDrerCBRaYFYpOia1m2p8PoU644mxn2Q/view?usp=sharing
+Vidéo de démonstration : https://youtu.be/iCSS7CWFq2w
+Lien du projet : https://drive.google.com/file/d/1gDrerCBRaYFYpOia1m2p8PoU644mxn2Q/view?usp=sharing (LIEN HS)
